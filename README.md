@@ -4,7 +4,7 @@ power bi dashboard analysis Microsoft stock data
 
 ## 📌 Project Overview
 This project provides a detailed analysis of **Microsoft (MSFT)** stock data using Power BI.  
-It covers daily stock performance from **1986 to 2025**, including price movements, trends, and volatility.
+It covers daily stock performance from **1986 to 2025**, including price movements, trends, and volatility
 
 ## 📁 Files Included
 - **MICROSOFT STOCK PERFORMANCE DASHBOARD.pbix** – Power BI Dashboard  
@@ -28,4 +28,5 @@ It covers daily stock performance from **1986 to 2025**, including price movemen
 
 ## 🎯 Purpose of the Project
 To analyze long-term stock behavior, identify trends, visualize volatility, and present insights using Power BI.
-
+## Author 
+created by sinan
