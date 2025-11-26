@@ -1,3 +1,4 @@
+<img width="1243" height="655" alt="Screenshot (7)" src="https://github.com/user-attachments/assets/1c0d4022-0fd2-4040-9ec6-f2b6ece75a7a" />
 # Microsoft-stock-analysis
 power bi dashboard analysis Microsoft stock data
 # Microsoft Stock Analysis – Power BI Dashboard
